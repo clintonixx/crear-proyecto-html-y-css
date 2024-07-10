@@ -1,0 +1,39 @@
+h1 {
+    text-align: center;
+}
+
+body {
+    background-color: rgba(128, 128, 128, 0.315);
+    margin: 0%;
+}
+
+.post {
+    background-color: white;
+    width: 40%;
+    margin: auto;
+    margin-bottom: 60px;
+    margin-top : 60px;
+    border: 1 solid;
+}
+
+img {
+    width: 100%;
+}
+
+div.post-header{
+    padding: 5px;
+    font-size: 12px;
+}
+
+.post .post-header .date{
+    float: right;
+    margin: 1%;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+h2 {
+    margin:0%;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 17px;
+    display: inline;
+}    
